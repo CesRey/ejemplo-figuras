@@ -23,7 +23,7 @@ public class Figura
     */
     public void calcularArea()
     {
-        System.out.println("El area es:"+ area);
+        System.out.println("");
     }
    
     /**
